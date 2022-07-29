@@ -1,0 +1,8 @@
+# Ignore all IDE files
+.idea/
+
+# VENV
+venv/
+
+#Intro Tutorial
+Intro_tutorial/__pycache__/
